@@ -1,0 +1,14 @@
+{
+  "name": "elevator-saga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
